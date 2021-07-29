@@ -1,0 +1,8 @@
+2021-07-27T17:17:01+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 2056
+
+2021-07-27T17:58:04+00:00 CRITICAL Cannot declare class OAuthSignatureMethod_HMAC_SHA1, because the name is already in use in D:\xampp\htdocs\wordpress\wp-content\plugins\kapee-extensions\inc\vendor\opauth\twitteroauth\OAuth.php on line 120
+
+2021-07-27T17:58:26+00:00 CRITICAL Cannot declare class OAuthSignatureMethod_HMAC_SHA1, because the name is already in use in D:\xampp\htdocs\wordpress\wp-content\plugins\kapee-extensions\inc\vendor\opauth\twitteroauth\OAuth.php on line 120
+
+2021-07-27T17:58:34+00:00 CRITICAL Cannot declare class OAuthSignatureMethod_HMAC_SHA1, because the name is already in use in D:\xampp\htdocs\wordpress\wp-content\plugins\kapee-extensions\inc\vendor\opauth\twitteroauth\OAuth.php on line 120
+
